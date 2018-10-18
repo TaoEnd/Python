@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f37db1b-8c59-4b0e-bf59-162764d94bda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/Ndarray的基本操作.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/广播机制.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/矩阵操作.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/聚合.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/对图片进行操作.ipynb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/test1.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/Numpy函数.ipynb" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/Numpy函数.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/test1.ipynb" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/基础.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataFrame.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataFrame.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataFrame运算.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -113,12 +113,13 @@
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/基础.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
-    <option name="y" value="24" />
+    <option name="x" value="745" />
+    <option name="y" value="20" />
     <option name="width" value="1420" />
     <option name="height" value="912" />
   </component>
@@ -182,28 +183,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DataAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pandas" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -447,10 +426,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="638" y="24" width="1420" height="912" extended-state="0" />
+    <frame x="745" y="20" width="1420" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2793462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2778603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -504,13 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ThreadProcess/父子进程的先后顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Re/re函数简介.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -863,7 +835,14 @@
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="7" />
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
         </state>
       </provider>
     </entry>
