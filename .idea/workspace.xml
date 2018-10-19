@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f37db1b-8c59-4b0e-bf59-162764d94bda" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,35 +19,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Series.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="基础.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/基础.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataFrame.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataFrame运算.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataFrame运算.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pandas1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="傅里叶变换.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="9" />
@@ -112,12 +105,14 @@
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="341" />
-    <option name="y" value="41" />
+    <option name="x" value="557" />
+    <option name="y" value="34" />
     <option name="width" value="1420" />
     <option name="height" value="912" />
   </component>
@@ -181,6 +176,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DataAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Numpy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,16 +423,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="341" y="41" width="1420" height="912" extended-state="0" />
+    <frame x="557" y="34" width="1420" height="912" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2778603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27488855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36278448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46452478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46452478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -480,20 +480,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Re/re函数简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Re/正则表达式元字符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1764">
-          <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Re/正则表达式深入.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -701,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173320">
           <caret line="4995" column="8" lean-forward="false" selection-start-line="4995" selection-start-column="8" selection-end-line="4995" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,14 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/test1.py" />
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/Numpy基础.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -782,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1232">
           <caret line="708" column="4" lean-forward="false" selection-start-line="708" selection-start-column="4" selection-end-line="708" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,18 +801,32 @@
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/基础.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="-1" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="12" />
+          <selected id="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="9" />
