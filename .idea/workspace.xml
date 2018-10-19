@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f37db1b-8c59-4b0e-bf59-162764d94bda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas合并操作.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的拼接操作.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的索引和聚合操作.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Scipy/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Scipy/去燥处理.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/Scipy/根据积分求圆周率.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" afterPath="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,29 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DataFrame运算.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb">
+      <file leaf-file-name="去燥处理.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/去燥处理.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="9" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pandas1.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb">
+      <file leaf-file-name="根据积分求圆周率.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/根据积分求圆周率.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="13" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="傅里叶变换.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="9" />
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="e#15#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +105,6 @@
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/test1.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/Numpy函数.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/Ndarray的基本操作.ipynb" />
-        <option value="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/聚合.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/矩阵操作.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/广播机制.ipynb" />
@@ -105,15 +112,23 @@
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb" />
-        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb" />
         <option value="$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas数据预处理.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/索引.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的拼接操作.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas合并操作.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Scipy/test.py" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Scipy/去燥处理.ipynb" />
+        <option value="$PROJECT_DIR$/DataAnalysis/Scipy/根据积分求圆周率.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="557" />
-    <option name="y" value="34" />
-    <option name="width" value="1420" />
+    <option name="x" value="806" />
+    <option name="y" value="23" />
+    <option name="width" value="1348" />
     <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -161,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pandas" />
+              <option name="myItemId" value="Scipy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -176,10 +191,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DataAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Numpy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,25 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration default="false" name="线程锁解决数据混乱" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThreadProcess" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonObject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThreadProcess/线程锁解决数据混乱.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="ThreadLocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,6 +312,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataAnalysis/Scipy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonObject" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataAnalysis/Scipy/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,19 +395,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.线程锁解决数据混乱" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ThreadLocal" />
-      <item index="2" class="java.lang.String" itemvalue="Python.线程通信" />
-      <item index="3" class="java.lang.String" itemvalue="Python.生产者与消费者" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ThreadLocal" />
+      <item index="1" class="java.lang.String" itemvalue="Python.线程通信" />
+      <item index="2" class="java.lang.String" itemvalue="Python.生产者与消费者" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.生产者与消费者" />
-        <item index="2" class="java.lang.String" itemvalue="Python.线程通信" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ThreadLocal" />
-        <item index="4" class="java.lang.String" itemvalue="Python.线程锁解决数据混乱" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.生产者与消费者" />
+        <item index="3" class="java.lang.String" itemvalue="Python.线程通信" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ThreadLocal" />
       </list>
     </recent_temporary>
   </component>
@@ -423,10 +434,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="557" y="34" width="1420" height="912" extended-state="0" />
+    <frame x="806" y="23" width="1348" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27488855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27394035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -480,62 +491,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Re/正则表达式深入.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Person2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Student1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Student2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Student1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Student3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Student4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/Person1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Object/Person2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -687,6 +642,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173320">
           <caret line="4995" column="8" lean-forward="false" selection-start-line="4995" selection-start-column="8" selection-end-line="4995" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -705,14 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="3151" column="20" lean-forward="false" selection-start-line="3151" selection-start-column="20" selection-end-line="3151" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/Numpy函数.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -724,13 +672,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="6" />
         </state>
       </provider>
     </entry>
@@ -819,17 +760,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas数据预处理.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb">
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="6118" column="12" lean-forward="false" selection-start-line="6118" selection-start-column="12" selection-end-line="6118" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的索引和聚合操作.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的拼接操作.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Pandas/Pandas合并操作.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1652">
+          <caret line="3136" column="16" lean-forward="true" selection-start-line="3136" selection-start-column="16" selection-end-line="3136" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#15#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/去燥处理.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/Scipy/根据积分求圆周率.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
         </state>
       </provider>
     </entry>
