@@ -2,90 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f37db1b-8c59-4b0e-bf59-162764d94bda" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/PythonObject.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Data/Numpy/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Data/Pandas/data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Data/dog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Data/fig.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Data/nd.mat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/2D图.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/3D图.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/3D绘图.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/Test1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/图片的灰度处理.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/玫瑰图(极坐标).ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/玫瑰图.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Matplotlib/绘图.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/Ndarray的基本操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/Numpy函数.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/Numpy基础.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/test1.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/傅里叶变换.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/基础.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/广播机制.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/矩阵操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/级联.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Numpy/聚合.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/DataFrame运算.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas合并操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas数据预处理.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的拼接操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/Pandas的索引和聚合操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/Series.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/基础.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/对图片进行操作.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Pandas/索引.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Scipy/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Scipy/去燥处理.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DataAnalysis/Scipy/根据积分求圆周率.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Igraph/Data/net.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Igraph/Data/stormofswords.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Igraph/基础内容.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Igraph/社区发现算法.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Network/TCP编程/客户端.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Person1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Person2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Student1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Student2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Student3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Object/Student4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Re/re函数简介.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Re/排列组合.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Re/正则表达式元字符.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Re/正则表达式深入.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Re/迭代器.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/Test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/ThreadLocal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/source/Question8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/test/target/Question8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/单任务现象.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/启动线程.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/父子进程的先后顺序.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/生产者与消费者.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/线程通信.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/线程锁解决数据混乱.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/进程实现多任务.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/进程池.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ThreadProcess/进程间通信.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Igraph/权利的游戏.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,7 +17,36 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Network.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://F:/研究生/机器学习/python/数据分析/igraph/第7课-Python社交网络分析igraph/第7课-Python社交网络分析igraph/Network.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="权利的游戏.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Igraph/权利的游戏.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/igraph/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="1272" column="8" lean-forward="false" selection-start-line="1272" selection-start-column="8" selection-end-line="1272" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Re/判断手机号码.py" />
         <option value="$PROJECT_DIR$/Re/正则表达式元字符.py" />
         <option value="$PROJECT_DIR$/Re/正则表达式深入.py" />
         <option value="$PROJECT_DIR$/Network/TCP编程/客户端.py" />
@@ -172,12 +118,12 @@
         <option value="$PROJECT_DIR$/Igraph/基础内容.ipynb" />
         <option value="$PROJECT_DIR$/Igraph/基础知识2.ipynb" />
         <option value="$PROJECT_DIR$/Igraph/社区发现算法.ipynb" />
+        <option value="$PROJECT_DIR$/Igraph/权利的游戏.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="525" />
-    <option name="y" value="63" />
+    <option name="x" value="352" />
     <option name="width" value="1348" />
     <option name="height" value="921" />
   </component>
@@ -224,6 +170,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Igraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Igraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,16 +412,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="525" y="63" width="1348" height="921" extended-state="0" />
+    <frame x="352" y="0" width="1348" height="921" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29042387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29042387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36772487" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33068782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33068782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -505,20 +470,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ThreadProcess/线程通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="913" column="0" lean-forward="false" selection-start-line="913" selection-start-column="0" selection-end-line="913" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThreadProcess/生产者与消费者.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -809,21 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/igraph/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="1179" column="8" lean-forward="false" selection-start-line="1179" selection-start-column="8" selection-end-line="1179" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Igraph/基础内容.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Igraph/社区发现算法.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -843,6 +779,35 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Igraph/基础内容.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python35/Lib/site-packages/igraph/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="1272" column="8" lean-forward="false" selection-start-line="1272" selection-start-column="8" selection-end-line="1272" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/研究生/机器学习/python/数据分析/igraph/第7课-Python社交网络分析igraph/第7课-Python社交网络分析igraph/Network.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Igraph/权利的游戏.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
         </state>
       </provider>
     </entry>
